@@ -1,0 +1,7 @@
+cara runnya program:
+- nyalain MySQL di xampp
+- di admin buat database "producify" kecil semua hurufnya
+- masuk ke terminal di vscode lalu masuk ke directory backend (cd backend)
+- run backendnya make "nodemon index" di powershell jangan lupa di cd folder backendnya trs instal nodemon dlu kalo gabisa di run
+- masuk ke terminal di vscode lalu masuk ke directory frontend (cd Massive_Challenge-Producify)
+- jalankan code nya (npm run dev)
